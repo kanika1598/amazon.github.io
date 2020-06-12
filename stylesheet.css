@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav-bar{
+    background-color: #59253A;
+    
+}
+.navbar-brand img{
+    width: 120px;
+    height: 120px;
+    margin-left: 0;
+}
+#nav-bar .nav-link{
+    color: #fff;
+}
+.navbar-form input[type="text"]{
+    width: 500px;
+}
+#search{
+    padding-left: 10px;
+    margin-top: 10px;
+}
+#login{
+    color: #59253A;
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 20px;
+    float: right;
+    margin-right: 15px;
+    width: 200px;
+}
+#login button{
+    background-color: #59253A;
+}
+.sale .ms{
+    color: #59253A;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 23px;
+}
+.sale .ms1{
+    color: #59253A;
+    font-weight: 500;
+    margin-left: 1px;
+    margin-top: 40px;
+    font-size: 23px;
+}
+#container .ms img{
+    margin-top: 50px;
+    border-radius:10px;
+    border-style:solid;
+}
+#container .ms img:hover{
+   color: yellow;
+}
+
+#container{
+    margin-left: 20px;
+}
+#container p{
+    font-weight: 400;
+    color: #59253A;
+}
+#content{
+    margin-left: 35px;
+}
+.sale a:hover{
+    color: white;
+}
+.col-md-4 .about0,.about1{
+    margin-top: 50px;
+    font-size: 20px;
+    color: aqua;
+    border: 3px solid #59253A;
+    padding-left: 7px;
+    padding-right: 7px;
+    box-shadow: 10px 10px 10px pink;
+    border-radius: 10px;
+
+}
+.about1{
+    margin-right: 50px;
+    height: 410px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+#social-media{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social-media p{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons img{
+    width: 60px;
+    transition: 0.5s;
+}
+.social-icons a:hover img{
+    transform: translateY(-10px);
+}
+#footer{
+    background-color: #59253A;
+    color: #fff;
+    margin-bottom: -50px;
+}
+.footer-box{
+    padding: 20px;
+}
+#contact{
+    margin-top: 50px;
+}
+.footer-box img{
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.footer-box .fa{
+    margin-right: 8px;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 2px;
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+}
+.footer-box .form-control{
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+.footer-box .btn-primary{
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    margin-top: 50px;
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+}
+#last{
+   background-color: #59253A;
+   margin-top: 25px;
+    border-color: white;
+}

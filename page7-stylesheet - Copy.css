@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav-bar{
+    background-color: #1B2631;
+    
+}
+.navbar-brand img{
+    width: 230px;
+    height: 120px;
+    margin-left: 0;
+}
+#nav-bar .nav-link{
+    color: #fff;
+}
+.navbar-form input[type="text"]{
+    width: 500px;
+}
+#search{
+    padding-left: 10px;
+    margin-top: 10px;
+}
+h1{
+    color:darkgray;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+p{
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+.women{
+    margin-left: 250px;
+    font-size: 15px;
+    color: darkred;
+}
+.men{
+    margin-left: 50px;
+    font-size: 15px;
+    color: darkred;
+
+}
+.accessory{
+    margin-left: 50px;
+    font-size: 15px;
+    color: darkred;
+
+}
+.decor{
+    margin-left: 50px;
+    font-size: 15px;
+    color: darkred;
+
+}
+.watch{
+    margin-left: 50px;
+    font-size: 15px;
+    color: darkred;
+
+}
+.electronic{
+    margin-left: 50px;
+    font-size: 15px;
+    color: darkred;
+
+}
+.women:hover{
+   text-decoration: underline overline;
+   cursor: pointer;
+}
+.decor:hover{
+    text-decoration: underline overline;
+   cursor: pointer;
+}
+.accessory:hover{
+    text-decoration: underline overline;
+   cursor: pointer;
+}
+.electronic:hover{
+    text-decoration: underline overline;
+   cursor: pointer;
+}
+.watch:hover{
+    text-decoration: underline overline;
+   cursor: pointer;
+}
+.men:hover{
+    text-decoration: underline overline;
+   cursor: pointer;
+}
+.wcollection img{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.wcollection img:hover{
+    border-color: orangered;
+    cursor: pointer;
+}
